@@ -1,0 +1,32 @@
+ans 1.32(2^5)
+ans2.11101
+ans3.using signed number.
+using one's complement
+or using two's complement
+ans4.using two complement -1 = 11111
+ans 5.no with 8(2^8).
+ans6.with all fingers and thumb=2^10.=1024
+ans7.01010111
+  +  00111001
+  _____________
+      10010000
+ans8.dig1 dig2 precarry next digit next precarry
+      1    0    0          1           0
+      1    0     1          0          1
+      0     1     0          1          0
+      0      1     1          0          1
+ans 10)using hand representation of fractional numbers
+ 10^-4 10^-3 10^-2 10^-1 10^0
+ ans12)csrocks
+ //Representation of colors in computer(internet)
+ ans13)AS each color can be represented with
+ the three prime colors(red,green,blue)we can represent red with 8 bits(0-255);(255,0,0)
+ green also with 8 bits range(0-255)and blue with 8 bits(0-255)
+example- black (0,0,0) in decimal
+ (00000000,00000000,00000000)
+ red(11111111,00000000,00000000)
+ ans14)storage to represent a given color 3bytes(24 bits).
+ ans 15)With 16 bits we can represent 256*256=65,536 colors.
+ ans 15 b.with 32 bits we can represent 2^32.
+ ans 16)the human eye can see 7,000,000
+ storage required for it=2,906,688 bytes.
